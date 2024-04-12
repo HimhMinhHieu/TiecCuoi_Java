@@ -1,0 +1,27 @@
+Pepsi
+15
+PepsiCo
+Coca Cola
+15
+CocaCola
+Sprite
+15
+CocaCola
+Nước suối Aquafina
+10
+PepsiCo
+Nước suối LaVie
+10
+Nestle
+Bia Sài Gòn
+30
+SABECO
+Bia Heneiken
+30
+HeneikenNV
+Bia Tiger
+30
+APB
+Bia 333
+30
+SABECO

@@ -1,0 +1,30 @@
+1
+Jack
+5000
+2
+Erik
+7000
+3
+Hien Ho
+6300
+4
+Min
+7000
+5
+Bao Anh
+8000
+6
+Amee
+4700
+7
+Đam Vinh Hung
+10000
+8
+Đat G
+3800
+9
+Wowy
+8500
+10
+Chi Pu
+3000
